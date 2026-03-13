@@ -1,7 +1,5 @@
 # Pedido System
 
-# Pedido System
-
 ![PHPUnit Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 
 Projeto simples em **PHP** desenvolvido para praticar conceitos de **backend, arquitetura em camadas e testes unitários**.
